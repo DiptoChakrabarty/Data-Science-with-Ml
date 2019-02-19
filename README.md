@@ -6,6 +6,7 @@ PLATFORM USED : DATABRICKS
 LIBRARIES USED :
 
 1)Pandas 
+
 •Pandas was used to read and organize the data since data representation by pandas is suitable for data analysis. 
 
 •Pandas makes it easier to represent the data and helps in performing operations on individual columns when required to filter the data.
@@ -16,6 +17,7 @@ LIBRARIES USED :
 
 
 2)Spark
+
 •Spark supports various languages like python , scala, java , R and sql.
 
 •Spark supports lots of different
@@ -26,6 +28,7 @@ LIBRARIES USED :
 
 
 3)Mat plotlib
+
 •The matplot lib library was used to represent data in pictorial form.
 
 •Data can be represented in histograms , bar graphs or pi charts etc using this library.
