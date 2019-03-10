@@ -1,11 +1,11 @@
 # Data-Science-with-Ml
-#Data Science and Machine Learning 
+# Data Science and Machine Learning 
 
-#PLATFORM USED : DATABRICKS 
+# PLATFORM USED : DATABRICKS 
 
-#LIBRARIES USED :
+# LIBRARIES USED :
 
-#1)Pandas 
+# 1)Pandas 
 
 •Pandas was used to read and organize the data since data representation by pandas is suitable for data analysis. 
 
@@ -16,7 +16,7 @@
 •Coding in pandas is similar to python and helps in learning and implementing things quickly.
 
 
-#2)Spark
+# 2)Spark
 
 •Spark supports various languages like python , scala, java , R and sql.
 
@@ -27,7 +27,7 @@
 •The Ml lib library of Spark helps in using various machine learning models like Linear Regression, Logistic Regression, Decision trees and K means Clustering.
 
 
-#3)Mat plotlib
+# 3)Mat plotlib
 
 •The matplot lib library was used to represent data in pictorial form.
 
